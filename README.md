@@ -1,5 +1,4 @@
 # JavaScript_Projects
-<h1>JavaScript Projects</h1>
 
 <h2>Includes</h2>
 
