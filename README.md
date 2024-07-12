@@ -1,8 +1,8 @@
 # JavaScript_Projects
-JavaScript Projects
+<h1>JavaScript Projects</h1>
 
-Includes
+<h2>Includes</h2>
 
-• Tic Tac Toe Game
-• Calculator
-• Rock Paper Scissors Game
+<p> • Calculator</p>
+<p> • Tic Tac Toe Game</p>
+<p> • Rock Paper Scissors Game</p>
