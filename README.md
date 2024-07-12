@@ -3,3 +3,4 @@ JavaScript Projects
 
 Includes
 • Tic Tac Toe Game
+• Calculator
